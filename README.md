@@ -1,2 +1,1 @@
-# aws-cfn-ami-list
-List official (AWS) AMI as JSON
+# Project was moved to https://github.com/clifflu/sam-aws-linux-ami-list
